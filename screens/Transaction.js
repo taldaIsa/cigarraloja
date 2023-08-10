@@ -308,7 +308,6 @@ const styles = StyleSheet.create({
     borderWidth: 3,
     fontSize: 18,
     backgroundColor: "#3F493E",
-    fontFamily: "EBGaramond_400Regular",
     color: "#FFFFFF"
   },
   scanbutton: {
@@ -323,7 +322,6 @@ const styles = StyleSheet.create({
   scanbuttonText: {
     fontSize: 25,
     color: "#0A0101",
-    fontFamily: "EBGaramond_400Regular",
     textAlign:"center",
     marginLeft:30
   },
@@ -337,7 +335,6 @@ const styles = StyleSheet.create({
 
   },
   textoenviar: {
-    fontFamily: "EBGaramond_400Regular",
     fontSize: 25,
   }
    
